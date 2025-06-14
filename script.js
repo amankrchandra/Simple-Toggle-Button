@@ -1,13 +1,13 @@
-let modeBtn = document.querySelector("#mode"); 
-let currMode = "light";
+let newBtn = document.createElement("button");
 
-modeBtn.addEventListener("click" , () => {
-    if (currMode === "light") {
-        currMode ="dark";
-        document.querySelector("body").style.backgroundColor="black";
-    } else {
-        currMode = "light";
-        document.querySelector("body").style.backgroundColor="white";
-    }
-    console.log(currMode);
-});
+newBtn.innerText = "Click me!";
+
+newBtn.style.backgroundColor = "red";
+newBtn.style.color = "white";
+
+
+console.log(newBtn);
+
+let body = document.querySelector("body");
+body.prepend(newBtn);
+// document.querySelector("body").prepend(newBtn);
