@@ -38,9 +38,11 @@ A minimalistic dark/light mode toggle built with **pure HTML and JavaScript** �
 
 ---
 
-## 🧠 Code Overview
+🌱 Future Improvements (Optional Ideas)
+🎨 Add CSS styles for smoother transitions
 
-### `index.html`
-```html
-<button onclick="toggleMode()">Toggle Dark/Light Mode</button>
-<script src="script.js"></script>
+💾 Save mode preference in localStorage
+
+🌓 Auto-detect system theme (prefers-color-scheme)
+
+💡 Add icons (sun/moon) for better UI
