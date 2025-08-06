@@ -26,3 +26,21 @@ A minimalistic dark/light mode toggle built with **pure HTML and JavaScript** �
 ├── index.html # HTML file with the toggle button
 ├── script.js # JavaScript file for toggling logic
 └── README.md # This documentation file
+
+
+---
+
+## 💻 Usage
+
+1. **Clone** or **Download** the repository.
+2. Open `index.html` in your browser.
+3. Click the **"Toggle Dark/Light Mode"** button to switch between modes.
+
+---
+
+## 🧠 Code Overview
+
+### `index.html`
+```html
+<button onclick="toggleMode()">Toggle Dark/Light Mode</button>
+<script src="script.js"></script>
