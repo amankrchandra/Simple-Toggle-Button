@@ -46,3 +46,6 @@ A minimalistic dark/light mode toggle built with **pure HTML and JavaScript** �
 🌓 Auto-detect system theme (prefers-color-scheme)
 
 💡 Add icons (sun/moon) for better UI
+
+📃 License
+This project is open source and free to use.
