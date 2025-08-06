@@ -22,5 +22,7 @@ A minimalistic dark/light mode toggle built with **pure HTML and JavaScript** �
 ---
 
 ## 📂 File Structure
-
-
+📁 dark-light-toggle
+├── index.html # HTML file with the toggle button
+├── script.js # JavaScript file for toggling logic
+└── README.md # This documentation file
