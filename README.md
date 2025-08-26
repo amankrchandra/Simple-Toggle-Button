@@ -13,7 +13,7 @@ A minimalistic dark/light mode toggle built with **pure HTML and JavaScript** �
 
 ---
 
-## 🛠️ How It Wor
+## 🛠️ How It Work
 
 - When the button is clicked:
   - If the page is in **light mode**, it switches to a black background and white text.
