@@ -1,4 +1,4 @@
-# 🌗 Simple Dark/Light Mode Toggle 
+# 🌗 Simple Dark/Light Mode Toggle Button
 
 A minimalistic dark/light mode toggle built with **pure HTML and JavaScript** — no external CSS, no frameworks. Just a single button that toggles your webpage background and text color between light and dark mode.
 
