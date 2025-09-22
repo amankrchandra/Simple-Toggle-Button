@@ -4,7 +4,7 @@ A minimalistic dark/light mode toggle built with **pure HTML and JavaScript** �
 
 ---
 
-## 🚀 Feature
+## 🚀 Featur
 - 🌓 Toggle between **Dark Mode** and **Light Mode**
 - ⚡ Built without any CSS — only HTML & JavaScript
 - 📱 Responsive by nature (thanks to simplicity)
